@@ -70,7 +70,7 @@ Segue um pequeno resumo de comados
 
 - Adicionar um repositório remoto:
 
-```$ git remote add origin https://github.com/davidalves1/gerador-cnpj.git```
+```$ git remote add origin https://github.com/iaratassi/gerador-cnpj.git```
 
 - Visualizar branchs locais e remotos:  
  
